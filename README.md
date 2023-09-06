@@ -1,0 +1,2 @@
+# Shosetsu
+小説
