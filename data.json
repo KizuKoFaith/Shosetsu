@@ -1,159 +1,38 @@
-{
-	"data":[
-		{
-			"id":0,
+[
+  {
+    "id":0,
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
 			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
 			"status":"Releasing",
 			"mal_id":123649,
-			"volumes":[
-				{
-					"name":"Volume 1",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/c/c2/LN_V1_EN_Cover.jpg/revision/latest?cb=20210517201654",
-					"link":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA"
-				},{
-					"name":"Volume 2",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/57/LN_V2_EN_Cover.jpg/revision/latest?cb=20210926040852",
-					"link":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9"
-				},{
-					"name":"Volume 3",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/1/1f/1-EN-Vol_3.webp/revision/latest?cb=20220330144822",
-					"link":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s"
-				},{
-					"name":"Volume 4",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/d/da/LN_V4_EN_Cover.jpg/revision/latest?cb=20221105215223",
-					"link":"1189K9JtRnBYYqR7vWHTs4lRjoD54piuR"
-				},{
-					"name":"Volume 5",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-					"link":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl"
-				}
-			]
-		},
-		{
-			"id":0,
+    "page": "Unknown"
+  },
+  {
+    "id":0,
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
 			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
 			"status":"Releasing",
 			"mal_id":123649,
-			"volumes":[
-				{
-					"name":"Volume 1",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/c/c2/LN_V1_EN_Cover.jpg/revision/latest?cb=20210517201654",
-					"link":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA"
-				},{
-					"name":"Volume 2",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/57/LN_V2_EN_Cover.jpg/revision/latest?cb=20210926040852",
-					"link":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9"
-				},{
-					"name":"Volume 3",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/1/1f/1-EN-Vol_3.webp/revision/latest?cb=20220330144822",
-					"link":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s"
-				},{
-					"name":"Volume 4",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/d/da/LN_V4_EN_Cover.jpg/revision/latest?cb=20221105215223",
-					"link":"1189K9JtRnBYYqR7vWHTs4lRjoD54piuR"
-				},{
-					"name":"Volume 5",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-					"link":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl"
-				}
-			]
-		},
-		{
-			"id":0,
+    "page": "Unknown"
+  },
+  {
+    "id":0,
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
 			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
 			"status":"Releasing",
 			"mal_id":123649,
-			"volumes":[
-				{
-					"name":"Volume 1",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/c/c2/LN_V1_EN_Cover.jpg/revision/latest?cb=20210517201654",
-					"link":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA"
-				},{
-					"name":"Volume 2",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/57/LN_V2_EN_Cover.jpg/revision/latest?cb=20210926040852",
-					"link":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9"
-				},{
-					"name":"Volume 3",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/1/1f/1-EN-Vol_3.webp/revision/latest?cb=20220330144822",
-					"link":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s"
-				},{
-					"name":"Volume 4",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/d/da/LN_V4_EN_Cover.jpg/revision/latest?cb=20221105215223",
-					"link":"1189K9JtRnBYYqR7vWHTs4lRjoD54piuR"
-				},{
-					"name":"Volume 5",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-					"link":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl"
-				}
-			]
-		},
-		{
-			"id":0,
+    "page": "Unknown"
+  },
+  {
+    "id":0,
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
 			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
 			"status":"Releasing",
 			"mal_id":123649,
-			"volumes":[
-				{
-					"name":"Volume 1",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/c/c2/LN_V1_EN_Cover.jpg/revision/latest?cb=20210517201654",
-					"link":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA"
-				},{
-					"name":"Volume 2",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/57/LN_V2_EN_Cover.jpg/revision/latest?cb=20210926040852",
-					"link":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9"
-				},{
-					"name":"Volume 3",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/1/1f/1-EN-Vol_3.webp/revision/latest?cb=20220330144822",
-					"link":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s"
-				},{
-					"name":"Volume 4",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/d/da/LN_V4_EN_Cover.jpg/revision/latest?cb=20221105215223",
-					"link":"1189K9JtRnBYYqR7vWHTs4lRjoD54piuR"
-				},{
-					"name":"Volume 5",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-					"link":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl"
-				}
-			]
-		},
-		{
-			"id":0,
-			"title":"The Angel Next Door Spoils Me Rotten",
-			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-			"status":"Releasing",
-			"mal_id":123649,
-			"volumes":[
-				{
-					"name":"Volume 1",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/c/c2/LN_V1_EN_Cover.jpg/revision/latest?cb=20210517201654",
-					"link":"1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA"
-				},{
-					"name":"Volume 2",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/57/LN_V2_EN_Cover.jpg/revision/latest?cb=20210926040852",
-					"link":"1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9"
-				},{
-					"name":"Volume 3",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/1/1f/1-EN-Vol_3.webp/revision/latest?cb=20220330144822",
-					"link":"10h0bdVdPNBooI812Ss6oJGdajFbf__5s"
-				},{
-					"name":"Volume 4",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/d/da/LN_V4_EN_Cover.jpg/revision/latest?cb=20221105215223",
-					"link":"1189K9JtRnBYYqR7vWHTs4lRjoD54piuR"
-				},{
-					"name":"Volume 5",
-					"cover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
-					"link":"1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl"
-				}
-			]
-		}
-	]
-}
+    "page": "Unknown"
+  }
+]
