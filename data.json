@@ -1,6 +1,6 @@
 [
   {
-    "id":0,
+    "id":3,
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
 			"images":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8d/LN_V5_Cover.jpg/revision/latest?cb=20220113055058",
@@ -9,7 +9,7 @@
     "page": "novels/the-angel-next-door-spoils-me-rooten.json"
   },
   {
-    "id":0,
+    "id":2,
 			"title":"Haibara's Teenage New Game+",
 			"alternative":"Haibara-kun no Tsuyokute Seishun New Game",
 			"images":"https://pbs.twimg.com/media/FpAv1YdaUAMLPVg.jpg",
@@ -18,7 +18,7 @@
     "page": "novels/haibaras-teenage-new-game-plus.json"
   },
   {
-    "id":0,
+    "id":1,
 			"title":"Alya Sometimes Hides Her Feelings in Russian",
 			"alternative":"Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
 			"images":"https://images.yenpress.com/imgs/9781975367572.jpg?w=408&h=612&type=books&s=6abfb2c87c111c74ae58c184e1c3812a",
