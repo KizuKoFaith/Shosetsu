@@ -1,0 +1,41 @@
+{
+  "information":{
+    "title":"The Angel Next Door Spoils Me",
+    "cover":"https://images.yenpress.com/imgs/9781975348274.jpg?w=408&h=612&type=books&s=370339375199178abbdc04fcb98cb89b",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"After a long period of unrequited love, Mahiru and Amane finally begin dating, and the inexperienced pair stumbles through their new relationship while steadily growing closer. When they openly show their love at school, everyone is shocked. However, that isn’t the only change—Amane slowly becomes more confident and easier to approach. Watching him, Mahiru can’t help feeling slightly uneasy...but it’s the start of summer vacation, and unforgettable memories await!"
+  },
+  "volumes":[
+    {
+      "volume":"Volume 1",
+      "cover": "https://images.yenpress.com/imgs/9781975319236.jpg?w=408&h=612&type=books&s=bff94902e8e31d65aca323dc3dcafc66",
+      "link": "1pDEiVDc99US21ZBn3zEXaQFVHkwuLdmA",
+      "link2":""
+    },
+    {
+      "volume":"Volume 2",
+      "cover": "https://images.yenpress.com/imgs/9781975322694.jpg?w=408&h=612&type=books&s=cab4ee6e58bc055c6055fe4e5d88e524",
+      "link": "1YPcthlhCxW8s2f5qU_aJFUrBgoDqo3d9",
+      "link2":""
+    },
+    {
+      "volume":"Volume 3",
+      "cover": "https://images.yenpress.com/imgs/9781975333409.jpg?w=408&h=612&type=books&s=b8104450bbc9a6253f0dfd792c7c7e06",
+      "link": "10h0bdVdPNBooI812Ss6oJGdajFbf__5s",
+      "link2":""
+    },
+    {
+      "volume":"Volume 4",
+      "cover": "https://images.yenpress.com/imgs/9781975344405.jpg?w=408&h=612&type=books&s=cb3f5523cdb3323c697c1fd9cd8e2aa6",
+      "link": "1KeaG6IscmpimPE8aCSz-oypqJsvCHXlD",
+      "link2":""
+    },
+    {
+      "volume": "Volume 5",
+      "cover": "https://images.yenpress.com/imgs/9781975348274.jpg?w=408&h=612&type=books&s=370339375199178abbdc04fcb98cb89b",
+      "link": "1Nv2g1k1ZtAhJflTsfUPXVyeXtUpK3nSl",
+      "link2":""
+    }
+  ]
+}
