@@ -1,0 +1,35 @@
+{
+  "information":{
+    "title":"The Vexations Of A Shut-In Vampire Princess",
+    "cover":"https://images.yenpress.com/imgs/9781975339555.jpg?w=408&h=612&type=books&s=b47da675364a970de30121428068b6ad",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"Three years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short) awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity-scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?"
+  },
+  "volumes":[
+    {
+      "volume": "Volume 1",
+      "cover": "https://images.yenpress.com/imgs/9781975339494.jpg?w=408&h=612&type=books&s=1e3778ea0fb298401e987b695e652d62",
+      "link": "1Qj0MdA-dOgeq_-XHWYMNsD__-fy44qw8",
+      "link2":""
+    },
+    {
+      "volume": "Volume 2",
+      "cover": "https://images.yenpress.com/imgs/9781975339517.jpg?w=408&h=612&type=books&s=aba0fe7b6319928e7bec4aa7ca55caab",
+      "link": "17XIb8I4zTg31cdc_cVfKNqcooCW9jnuN",
+      "link2":""
+    },
+    {
+      "volume": "Volume 3",
+      "cover": "https://images.yenpress.com/imgs/9781975339531.jpg?w=408&h=612&type=books&s=278dd127e76dc4104896067bc27a9112",
+      "link": "1WjWpvhkETWeHd3l6sgiEOelbCqBbFdsC",
+      "link2":""
+    },
+    {
+    	"volume": "Volume 4",
+    	"cover": "https://images.yenpress.com/imgs/9781975339555.jpg?w=408&h=612&type=books&s=b47da675364a970de30121428068b6ad",
+    	"link": "1DxdlJLJdXl-dRqVqVokWu0-7h02FCxM1",
+    	"link2": ""
+    }
+  ]
+}
