@@ -1,5 +1,10 @@
 [
 	{
+    	"title":"Paradise Noise",
+   	 "cover":"https://headcanontl.files.wordpress.com/2023/06/cover.jpg",
+    	"path":"novels/Paradise-Noise.json"
+	},
+	{
     	"title":"The Vexations Of A Shut-In Vampire Princess",
    	 "cover":"https://images.yenpress.com/imgs/9781975339555.jpg?w=408&h=612&type=books&s=b47da675364a970de30121428068b6ad",
     	"path":"novels/the-vexations-of-a-shut-in-vampire-princess.json"
