@@ -1,32 +1,44 @@
 [
+	{
+		"title":"Unknown",
+		"cover":"Unknown",
+		"current_volume":"Unknown",
+		"id": 0,
+		"link":"Unknown"
+	},
   {
     "title":"The Angel Next Door Spoils Me Rotten",
     "cover":"https://images.yenpress.com/imgs/9781975348274.jpg?w=408&h=612&type=books&s=370339375199178abbdc04fcb98cb89b",
     "current_volume":"Volume 5.5",
+    "id": 123649,
     "link":"https://drive.google.com/drive/folders/1Hc8jsYmT4kX633P-7Ne6yPFM4rhOKEPS"
   },
   {
     "title":"Alya Sometimes Hide Her Feelings in Russian",
     "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v03.jpg?w=500&ssl=1",
     "current_volume":"Volume 3",
+    "id": 134341,
     "link":"https://drive.google.com/drive/folders/1Sren2GD9u7xiqf8lN2cl4mY25SaDzo6L"
   },
   {
     "title":"Haibara's Teenage New Game+",
     "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Haibaras-Teenage-New-Game-Volume-04.jpg?w=500&ssl=1",
     "current_volume":"Volume 4",
+    "id": 152588,
     "link":"https://drive.google.com/drive/folders/1H7HXb58j3rFGjxHA1wWMA37M86ayke4c"
   },
   {
     "title":"The Eminence In Shadow",
     "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/d/d8/Cover-LN-V4-EN.jpg/revision/latest?cb=20221113151706",
     "current_volume":"Volume 4",
+    "id": 115922,
     "link":"https://drive.google.com/drive/folders/1u_a9VXfG5KhYLmIEaIlCGSFq1M6e9OjL"
   },
   {
     "title":"The Vexations Of A Shut-In Vampire Princess",
     "cover":"https://images.yenpress.com/imgs/9781975339555.jpg?w=408&h=612&type=books&s=b47da675364a970de30121428068b6ad",
     "current_volume":"Volume 4",
+    "id": 138763,
     "link":"https://drive.google.com/drive/folders/1N2QJ4D4EY78Mjinnisn77KJNBe5D9HI0"
   }
 ]
