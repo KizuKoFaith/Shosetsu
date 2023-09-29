@@ -1,4 +1,12 @@
-[
+{
+  "information":{
+    "title":"Alya Sometimes Hide Her Feelings in Russian",
+    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v03.jpg?w=500&ssl=1",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"Masachika Kuze sits next to Alya, a girl of Russian and Japanese descent. She’s beautiful, haughty, and an exceptional student, while Masachika is nerdy and known for being a slacker. He’s an easy target for her comments in Russian, which she’s all too happy to translate—except he can understand what she’s really saying!\n\n(Source: Yen Press)"
+  },
+  "volumes":[
     {
       "volume": "Volume 1",
       "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/08/russian.jpg?w=500&ssl=1",
@@ -18,3 +26,4 @@
       "link2":""
     }
   ]
+}
