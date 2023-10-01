@@ -1,5 +1,10 @@
 [
 	{
+		"title":"Reign of the Seven Spellblades",
+		"cover":"https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/c/ce/LN_VOL-8_ENG.jpg/revision/latest?cb=20230316230327",
+		"path":"novels/reign-of-the-seven-spellblade.json"
+	},
+	{
 		"title":"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
 		"cover":"https://images.yenpress.com/imgs/9781975367220.jpg?w=408&h=612&type=books&s=481c8f8d53a5ba8d4b01df3342d8e0c5",
 		"path":"novels/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat.json"
