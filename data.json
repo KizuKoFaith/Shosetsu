@@ -2,9 +2,7 @@
 	{
 		"title":"Spy Classroom",
 		"cover":"https://images.yenpress.com/imgs/9781975350284.jpg?w=408&h=612&type=books&s=88a427d40d75f7f9b908806948f4d280",
-		"current_volume":"Volume 6",
-		"id": 0,
-		"link":"novels/spy-classroom.json"
+		"path":"novels/spy-classroom.json"
 	},
 	{
     	"title":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
