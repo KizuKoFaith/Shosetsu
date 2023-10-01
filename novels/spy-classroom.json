@@ -1,0 +1,47 @@
+{
+  "information":{
+    "title":"Spy Classroom",
+    "cover":"https://images.yenpress.com/imgs/9781975350284.jpg?w=408&h=612&type=books&s=88a427d40d75f7f9b908806948f4d280",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"Following a devastating military conflict, countries fight their wars in the shadows. One unusual spy, Klaus, has never failed on the job despite his quirks, and he is building a team to take on an Impossible Mission-one with over a 90 percent chance of failure. However, his chosen members are all washouts with no practical experience. They’ll have to use every trick in the book (and some that aren’t) to prove they’re up to the task!\n\n(Source: Yen Press)"
+  },
+  "volumes":[
+    {
+      "volume": "Volume 1",
+      "cover": "https://images.yenpress.com/imgs/9781975322403.jpg?w=408&h=612&type=books&s=4c77316160321191bf60c0998b4ffec3",
+      "link": "https://drive.google.com/file/d/1ByvjWWh_ukYnzzxnZ21sxz6aMxrPxig2/view?usp=drivesdk",
+      "link2":""
+    },
+    {
+      "volume": "Volume 2",
+      "cover": "https://images.yenpress.com/imgs/9781975322427.jpg?w=408&h=612&type=books&s=cda4a93a1097acd5d4a7c2f4485e4703",
+      "link": "https://drive.google.com/file/d/1F-Wj20TmG0HgprddnjhiBrDo9k5f9hJl/view?usp=drivesdk",
+      "link2":""
+    },
+    {
+      "volume": "Volume 3",
+      "cover": "https://images.yenpress.com/imgs/9781975338824.jpg?w=408&h=612&type=books&s=2832ef8783ca5d5e01ced7b6f2b2c6e3",
+      "link": "https://drive.google.com/file/d/12vu_aVWvcERt-Gy57efiveoABDxUbnhv/view?usp=drivesdk",
+      "link2":""
+    },
+    {
+    	"volume":"Volume 4",
+    	"cover":"",
+    	"link":"https://drive.google.com/file/d/1sVyIcEUyaHSqy76CUaAof6eBXNx3yTfS/view?usp=drivesdk",
+    	"link2":""
+    },
+    {
+    	"volume":"Volume 5",
+    	"cover":"",
+    	"link":"https://drive.google.com/file/d/1A5NLwrhP3_2Cd2y73e6sYYkRN3JYqQLE/view?usp=drivesdk",
+    	"link2":""
+    },
+    {
+    	"volume":"Volume 6",
+    	"cover":"",
+    	"link":"https://drive.google.com/file/d/13_CvT3-jsQnfUfYmdS6qTFCdjwNKzrYx/view?usp=drivesdk",
+    	"link2":""
+    }
+  ]
+}
