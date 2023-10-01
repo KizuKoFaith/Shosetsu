@@ -1,0 +1,67 @@
+{
+  "information":{
+    "title":"Wandering Witch: The Journey of Elaina",
+    "cover":"https://images.yenpress.com/imgs/9781975334673.jpg?w=408&h=612&type=books&s=9a60656b58a95de8a7fdb1c3cda5e3a5",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"What’s your favorite story? Does it have a hero who slays a dragon and saves a princess? Or a child of prophecy destined for greatness? Well, my favorite story is a little different. It’s the tale of a witch who travels the world, seeking nothing in particular. With no quest of her own, she’s free to wander wherever the wind takes her, adding a few pages to the story of whomever she meets before setting off on her next adventure. At the end of her travels, the witch takes on an apprentice who will one day begin her own journey. And so the cycle continues, or so the story goes. Now, the witch who starts the story anew...who could she be?"
+  },
+  "volumes":[
+    {
+      "volume": "Volume 1",
+      "cover": "",
+      "link": "1GjmBsUCWjCOaJu2EPpYjqeXOCY6dJv6J",
+      "link2":""
+    },{
+    	"volume":"Volume 2",
+    	"cover":"",
+    	"link":"1lIBFW_G43y98HqO9nH3NWvVZr3vfvBHs",
+    	"link2":""
+    },{
+    	"volume":"Volume 3",
+    	"cover":"",
+    	"link":"1zGnUqC3uuq9Ig87I612S0euqxfRUyxMV",
+    	"link2":""
+    },{
+    	"volume":"Volume 4",
+    	"cover":"",
+    	"link":"1X5GuDq6ntMIs_M70YnCS-OG32WJCdulC",
+    	"link2":""
+    },{
+    	"volume":"Volume 5",
+    	"cover":"",
+    	"link":"1M2fYPHvsLEyYvNR_008uBennprUT-Io3",
+    	"link2":""
+    },{
+    	"volume":"Volume 6",
+    	"cover":"",
+    	"link":"13Dlq-_HjVnczVt01ssOKkIw-5Zo9Zky1",
+    	"link2":""
+    },{
+    	"volume":"Volume 7",
+    	"cover":"",
+    	"link":"1bM7HvjCAcE6ekZs1Q167RfE9kZgeI1Tj",
+    	"link2":""
+    },{
+    	"volume":"Volume 8",
+    	"cover":"",
+    	"link":"19RIuUCvMNicFTLkS27J3qFnQT9_KRvsq",
+    	"link2":""
+    },{
+    	"volume":"Volume 9",
+    	"cover":"",
+    	"link":"1aPewO2iJbUOEYklBrFujd2ySpTwErnx7",
+    	"link2":""
+    },{
+    	"volume":"Volume 10",
+    	"cover":"",
+    	"link":"1Qah8tHs0jvotZyYPzFGMCe4uS2rL-t6G",
+    	"link2":""
+    },{
+    	"volume":"Volume 11",
+    	"cover":"",
+    	"link":"1uXgdhEr_KTtNGk91RJT0cnPqQ63N8VFX",
+    	"link2":""
+    }
+  ]
+}
