@@ -1,0 +1,59 @@
+{
+  "information":{
+    "title":"Reign of the Seven Spellblades",
+    "cover":"https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/c/ce/LN_VOL-8_ENG.jpg/revision/latest?cb=20230316230327",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"FROM A CLASH OF SWORDS, AN UNSHAKABLE BOND Springtime at Kimberly Magic Academy brings a new batch of first-year students, all bright-eyed and bushy-tailed as they begin their journey to become full-fledged mages. Among these newcomers are Oliver Horn, a studious boy equally skilled with the wand and the blade, and Nanao Hibiya, a strong-willed samurai girl from the distant nation of Yamatsu. The wheels of fate bring these two souls together at Kimberly, where they become both comrades and rivals in equal measure. However, lurking within the academy’s halls are countless dangers and dark secrets guaranteed to threaten not only their friendship—but their very lives..."
+  },
+  "volumes":[
+    {
+      "volume": "Volume 1",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/8/80/YenPress_RSS_Volume_01_Cover.png/revision/latest?cb=20220615214139",
+      "link": "1jDHVj50lAKHMDN-XjjD1pWIYg1bCzWCY",
+      "link2":"1jsVNoBh_9sYXlofGPI2nQHIup-ujjGDQ"
+    },
+    {
+      "volume": "Volume 2",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/f/f4/YenPress_RSS_Volume_02_Cover.png/revision/latest?cb=20220616002613",
+      "link": "1jIo4jxZUhXXQ_MQujFDjgsictj_9C_6N",
+      "link2":"1jvqFPBrsmumMb6Cu0Ey3fGdqBLJtNuOD"
+    },
+    {
+      "volume": "Volume 3",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/7/74/Art_insert001.jpg/revision/latest?cb=20210818195935",
+      "link": "1jMCJNPaBbeHGlShGmhjyN4XyRS5HCPbS",
+      "link2":"1jxTpypE7KJ3NvJeAtMdasGUqTNbK2KxY"
+    },
+    {
+      "volume": "Volume 4",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/7/78/VOL-4_ENG.PNG/revision/latest?cb=20211209171222",
+      "link": "1jOXGjbrzgYZfYc2vDoWKTRTU8XZzpuB0",
+      "link2":"1k6tk-4sd6wuRnDXZSxCyuD_UB680_LYv"
+    },
+    {
+      "volume": "Volume 5",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/b/b1/LN_VOL-5_ENG.jpg/revision/latest?cb=20230316230148",
+      "link": "1jPxMQdSnlwJXRUsnVlukeaHI3uwhCgMq",
+      "link2":"1k7P0dzOo_R6MBEN65xfRpbU9yU9NdqNR"
+    },
+    {
+      "volume": "Volume 6",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/5/5f/LN_VOL-6_ENG.jpg/revision/latest?cb=20230316230216",
+      "link": "1jRZ6gziae0MaZCRpKevbpdvEkVpzJanA",
+      "link2":"1k8q6WK4nRVmgAw8X3mbA444Jv5z87l54"
+    },
+    {
+      "volume": "Volume 7",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/7/79/817YKoZCaHL.jpg/revision/latest?cb=20230316230228",
+      "link": "1j_-PoW6_A4myObgYE4gGRfpE_X7TYBeB",
+      "link2":"1k9MLgCCSzgBhYgUKxKHP7hd6HWbv7wLD"
+    },
+    {
+      "volume": "Volume 8",
+      "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/c/ce/LN_VOL-8_ENG.jpg/revision/latest?cb=20230316230327",
+      "link": "1jamZAzf27oeeDCstRnHkEqFbf3iaCxK_",
+      "link2":"1kHVpuYEuw43pMqADVxIbOhDE41D3hhRl"
+    }
+  ]
+}
