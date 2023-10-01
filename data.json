@@ -1,5 +1,10 @@
 [
 	{
+		"title":"Wandering Witch: The Journey of Elaina",
+		"cover":"https://images.yenpress.com/imgs/9781975334673.jpg?w=408&h=612&type=books&s=9a60656b58a95de8a7fdb1c3cda5e3a5",
+		"path":"novels/majo-no-tabitabi.json"
+	},
+	{
 		"title":"Spy Classroom",
 		"cover":"https://images.yenpress.com/imgs/9781975350284.jpg?w=408&h=612&type=books&s=88a427d40d75f7f9b908806948f4d280",
 		"path":"novels/spy-classroom.json"
