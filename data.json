@@ -25,71 +25,79 @@
     	"path":"novels/the-most-heretical-last-boss-queen.json"
 	},
   {
+    "id": 115922,
     	"title":"The Eminence In Shadow",
    	 "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Arbatel-The-Eminence-in-Shadow-05.jpg?w=500&ssl=1",
     	"path":"novels/the-eminence-in-shadow.json"
 	},
 	{
+	  "id": 122521,
 		"title":"The Demon Sword Master of Excalibur Academy",
 		"cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/The-Demon-Sword-Master-of-Excalibur-Academy-Volume-9.jpg?w=500&ssl=1",
 		"path":"novels/the-demon-sword-master-excalibur-academy.json"
 	},
 	{
+	  "id": 104039,
 		"title":"86 - Eighty Six",
 		"cover":"https://static.wikia.nocookie.net/86-eighty-six/images/8/84/Volume_11_English_Cover.jpg/revision/latest?cb=20220816123728",
 		"path":"novels/eighty-six.json"
 	},
 	{
+	  "id": 156101,
 		"title":"My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages’ Guild!",
 		"cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/the-magic-carer-vol1.jpg?w=500&ssl=1",
 		"path":"novels/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild-light-novel-epub.json"
 	},
 	{
+	  "id": 122975,
 		"title":"Reign of the Seven Spellblades",
 		"cover":"https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/c/ce/LN_VOL-8_ENG.jpg/revision/latest?cb=20230316230327",
 		"path":"novels/reign-of-the-seven-spellblade.json"
 	},
 	{
+	  "id": 120548,
 		"title":"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
 		"cover":"https://images.yenpress.com/imgs/9781975367220.jpg?w=408&h=612&type=books&s=481c8f8d53a5ba8d4b01df3342d8e0c5",
 		"path":"novels/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat.json"
 	},
 	{
+	  "id": 102330,
 		"title":"Wandering Witch: The Journey of Elaina",
 		"cover":"https://images.yenpress.com/imgs/9781975334673.jpg?w=408&h=612&type=books&s=9a60656b58a95de8a7fdb1c3cda5e3a5",
 		"path":"novels/majo-no-tabitabi.json"
 	},
 	{
+	  "id": 125340,
 		"title":"Spy Classroom",
 		"cover":"https://images.yenpress.com/imgs/9781975350284.jpg?w=408&h=612&type=books&s=88a427d40d75f7f9b908806948f4d280",
 		"path":"novels/spy-classroom.json"
 	},
 	{
+	  "id": 138744,
     	"title":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
    	 "cover":"https://images.yenpress.com/imgs/9781975369033.jpg?w=408&h=612&type=books&s=52ae0bc22ad2a298a6ef5a60e34816c6",
     	"path":"novels/the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady.json"
 	},
 	{
+	  "id": 138202,
     	"title":"I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
    	 "cover":"https://images.yenpress.com/imgs/9781975369460.jpg?w=408&h=612&type=books&s=a68c5d557020170442fbc285bab4be18",
     	"path":"novels/i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time.json"
 	},
 	{
-    	"title":"Until My Female Friend Who Used To Say “Let’s Be Friends Forever” Stops Being My Friend",
-   	 "cover":"https://icantreadjapanese.files.wordpress.com/2023/09/cover.jpg",
-    	"path":"novels/this-is-the-memory-until-the-girl-who-said-please-be-my-friend-forever-is-no-longer-my-friend.json"
-	},
-	{
+	  "id": 143676,
     	"title":"Paradise Noise",
    	 "cover":"https://headcanontl.files.wordpress.com/2023/06/cover.jpg",
     	"path":"novels/Paradise-Noise.json"
 	},
 	{
+	  "id": 138763,
     	"title":"The Vexations Of A Shut-In Vampire Princess",
    	 "cover":"https://images.yenpress.com/imgs/9781975339555.jpg?w=408&h=612&type=books&s=b47da675364a970de30121428068b6ad",
     	"path":"novels/the-vexations-of-a-shut-in-vampire-princess.json"
 	},
   {
+    "id": 132444,
     "title":"Cross-Dressing Villainess Cecilia Sylvie",
     "cover":"https://images.yenpress.com/imgs/9781975368609.jpg?w=408&h=612&type=books&s=6ab3e1cee0b5821a000cf256e22497b1",
     "path":"novels/cross-dressing-villainess-cecilia-sylvie.json"
